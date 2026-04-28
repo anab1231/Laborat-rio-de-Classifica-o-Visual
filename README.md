@@ -1,8 +1,10 @@
 SM2 - Laboratório de Classificação Visual 
 fotos 
-[gato de rua -20260310T011243Z-3-001.zip](https://github.com/user-attachments/files/27145539/gato.de.rua.-20260310T011243Z-3-001.zip)
-[gato nao de rua ]-20260310T011242Z-3-001 (1).zip](https://github.com/user-attachments/files/27145538/gato.nao.de.rua.-20260310T011242Z-3-001.1.zip)
-[garrafas formais -20260310T011245Z-3-001.zip](https://github.com/user-attachments/files/27145547/garrafas.formais.-20260310T011245Z-3-001.zip)
+{gato de rua}
+-20260310T011243Z-3-001.zip](https://github.com/user-attachments/files/27145539/gato.de.rua.-20260310T011243Z-3-001.zip)
+gato nao de rua (https://github.com/user-attachments/files/27145538/)
+[garrafas formais
+(https://github.com/user-attachments/files/27145547/garrafas.formais.-20260310T011245Z-3-001.zip)
 
 
 
