@@ -1,7 +1,3 @@
- Para documentar este experimento de **IA Ética** no seu GitHub, preparei um resumo estruturado que destaca a sua capacidade de identificar falhas críticas em sistemas de aprendizado de máquina e propor soluções humanizadas.
-
----
-
 # ⚖️ Laboratório: Viés Algorítmico e Ética em IA
 
 Este repositório registra um experimento prático de **Classificação Visual** utilizando o *Teachable Machine* (Google), com o objetivo de demonstrar como bases de dados enviesadas geram sistemas discriminatórios e tecnicamente falhos.
@@ -42,6 +38,7 @@ Uma intervenção eficaz **garante** a equidade através de um comitê de curado
 4.  **Reflexão Ética:** Análise técnica sobre como os dados impactam a vida real.
 
 ---
+link 
 *Atividade realizada para a disciplina de Inteligência Artificial e Sociedade - 2026.*
 
 
